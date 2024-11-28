@@ -1,1 +1,1 @@
-# CanSat Repository Example
+# CanSat Repository Template
